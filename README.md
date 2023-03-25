@@ -33,26 +33,16 @@ Aim of the project is to answer the following questions based on past Data
 Mapping of various statuses <br>
 Identifiers are presents in circuits.csv, driver.csv, constructors.csv , Races.csv and Status.csv where we can identify the circuit, driver, constructor, races and status using their unique ids <br>
 
-**Circuit Analysis -**
+**Analysis -**
 
-To find the distribution of formula 1 circuits over different countries
-
-
-**Formula 1 Race Analysis-**
-
-To indentify top drivers and constructors on the basis of points and no of different position attained
-
-To identify the rise/fall of a constructor based on time in History
-
-To find pattern in no of races based on time over period of years
-
-To identify the pattern in Nationality and drivers over period of years
-
-To identify the age pattern in drivers over time as well as age pattern based on constructor
-
-Identify the pattern in mean age over period of years
-
-Identify drivers with maximum number of fastest laps
+ * Distribution of Formula 1 circuits over different countries 
+ * Identification of top drivers and constructors based on points and number of different positions attained
+ * Identification of the rise/fall of constructors based on time in history
+ * Pattern analysis of the number of races over a period of years
+ * Identification of the pattern in nationality and drivers over a period of years
+ * Identification of age patterns in drivers over time as well as age patterns based on constructors
+ * Identification of the pattern in mean age over a period of years
+ * Identification of drivers with the maximum number of fastest laps
 
 
 **Scorecards**
